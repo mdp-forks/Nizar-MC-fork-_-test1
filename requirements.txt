@@ -11,7 +11,7 @@ boto3==1.23.10
 testrail_api==1.10.5
 PyYAML==5.4.1
 selenium==3.141.0
-webdriver-manager==3.4.2
+webdriver-manager==3.8.5
 filelock==3.2
 gitpython==3.1.27
 allure-pytest==2.9.45
