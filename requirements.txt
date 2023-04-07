@@ -12,7 +12,7 @@ testrail_api==1.10.5
 PyYAML==5.4.1
 selenium==3.141.0
 webdriver-manager==3.4.2
-filelock==3.2
+filelock==3.11.0
 gitpython==3.1.27
 allure-pytest==2.9.45
 atlassian-python-api==3.28.0
